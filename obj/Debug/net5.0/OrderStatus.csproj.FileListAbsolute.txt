@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.exe
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.deps.json
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.dll
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\ref\OrderStatus.dll
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\bin\Debug\net5.0\OrderStatus.pdb
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.dll
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\ref\OrderStatus.dll
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.pdb
+C:\Users\user\Projetos\ProjetosC#\OrderStatus\obj\Debug\net5.0\OrderStatus.genruntimeconfig.cache
